@@ -10,7 +10,7 @@
 💼 &nbsp;Technical graduate from El Sewedy Technical Academy – Programming Department\
 💻 &nbsp;Hands-on experience with ERP systems like Odoo and Oracle\
 🔧 &nbsp;Skilled in Java, HTML, CSS, SQL, and mobile app development\
-🔒 &nbsp;Passionate about IT, cybersecurity, and continuous learning
+🔒 &nbsp;Passionate about AI, Machine Learning
 
 <p align="center">
   <a href="mailto:e.fares.ashraf@gmail.com?subject=Hello%20Fares"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
