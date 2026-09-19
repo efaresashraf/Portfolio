@@ -64,7 +64,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=efaresashraf&show_icons=true&theme=radical" alt="Fares's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Fares's GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=efaresashraf&theme=radical" alt="Fares's GitHub Streak" width="48%" />
 </p>
 
 *(Please remember to replace `YOUR_GITHUB_USERNAME` in the image URLs above with your actual GitHub handle to display your live stats!)*
