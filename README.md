@@ -67,4 +67,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=efaresashraf&theme=radical" alt="Fares's GitHub Streak" width="48%" />
 </p>
 
-*(Please remember to replace `YOUR_GITHUB_USERNAME` in the image URLs above with your actual GitHub handle to display your live stats!)*
+
